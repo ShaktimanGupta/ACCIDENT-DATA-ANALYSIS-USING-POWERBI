@@ -1,6 +1,6 @@
 # 🚗 Accident Data Analysis Dashboard
 
-![Dashboard Preview](Screenshot 2025-10-17 105205.png)
+![Dashboard Preview]([Screenshot 2025-10-17 105205.png](https://github.com/ShaktimanGupta/ACCIDENT-DATA-ANALYSIS-USING-POWERBI/blob/main/Screenshot%202025-10-17%20105205.png))
 
 ## 📊 Project Overview
 
