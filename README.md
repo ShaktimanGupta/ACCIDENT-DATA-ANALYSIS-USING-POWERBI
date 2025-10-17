@@ -1,4 +1,4 @@
-# 🚗 Accident Data Analysis Dashboard
+
 <!-- 🖼️ Dashboard Preview (Top Banner) -->
 <p align="center">
   <img src="https://github.com/ShaktimanGupta/ACCIDENT-DATA-ANALYSIS-USING-POWERBI/blob/main/Screenshot%202025-10-17%20105205.png" alt="Accident Data Analysis Dashboard Preview" width="90%" style="border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.15);">
