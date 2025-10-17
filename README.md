@@ -1,6 +1,6 @@
 # 🚗 Accident Data Analysis Dashboard
 
-![Dashboard Preview](fabca51e-9dd1-459a-8f5f-d33bdb05ac99.png)
+![Dashboard Preview](Screenshot 2025-10-17 105205.png)
 
 ## 📊 Project Overview
 
